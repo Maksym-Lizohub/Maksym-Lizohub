@@ -16,6 +16,16 @@
   <img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="Node.js" width="60">
 </div>
 
+<h2>&#60;my-own-projects&#62;</h2> 
+<div>
+ <a href="https://maksym-lizohub.github.io/goit-markup-hw-08" lang="en" style="font-size: 26px; line-height: 1.17;"><span class="logo--accent">Web</span>Studio</a>
+  
+</div>
+
+<h2>&#60;team-projects&#62;</h2> 
+<div>
+  
+</div>
 
 <!---
 Maksym-Lizohub/Maksym-Lizohub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
