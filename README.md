@@ -18,7 +18,7 @@
 
 <h2>&#60;my-own-projects&#62;</h2> 
 <div>
- <a href="https://maksym-lizohub.github.io/goit-markup-hw-08" target="_blank" lang="en" rel="noopener noreferrer" style="text-decoration: none; color: white"><span>Web</span>Studio</a>
+ <a target="_blank" rel="noopener noreferrer" href="https://maksym-lizohub.github.io/goit-markup-hw-08"  lang="en"  style="text-decoration: none; color: white"><span>Web</span>Studio</a>
   
 </div>
 
