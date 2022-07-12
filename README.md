@@ -20,6 +20,8 @@
   <img src="https://www.svgrepo.com/show/303535/visual-studio-code-logo.svg" alt="Visual Studio Code" width="60"> 
   <img src="https://www.svgrepo.com/show/327364/logo-github.svg" alt="Github" width="60">
   <img src="https://www.svgrepo.com/show/353778/git.svg" alt="git" width="60">
+  <img src="https://www.svgrepo.com/show/354463/trello.svg" alt="Trello" width="60">
+  <img src="https://www.svgrepo.com/show/303210/figma-1-logo.svg" alt="Figma" width="60">
 </div>
 
 <h2>&#60;my-own-projects&#62;</h2> 
