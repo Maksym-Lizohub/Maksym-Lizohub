@@ -9,9 +9,11 @@
  
 <h2>&#60;stack-tools&#62;</h2> 
 <div>
+  <img src="https://www.svgrepo.com/show/303592/magento-2-logo.svg" alt="Magento 2" width="60"> 
   <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="HTML" width="60"> 
   <img src="https://www.svgrepo.com/show/353623/css-3.svg" alt="CSS" width="60"> 
-   <img src="https://www.svgrepo.com/show/354310/sass.svg" alt="SASS" width="60">
+  <img src="https://www.svgrepo.com/show/354310/sass.svg" alt="SASS" width="60">
+  <img src="https://www.svgrepo.com/show/373733/less.svg" alt="LESS" width="60">
   <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="Javascript" width="60"> 
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React" width="60"> 
   <img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="Node.js" width="60">
