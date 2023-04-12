@@ -1,6 +1,6 @@
 <h1>&#60;me-briefly&#62;</h1>
 <ul>
-  <li>👋 Hi, I'm Ukrainian 💙💛</li>
+  <li>👋 Hi, I'm front-end dev</li>
   <li>👀 I'm looking myself in coding</li>
   <li>🔬 I’m always learning this life</li>
   <li>🤝 I'm free for new friends</li>
